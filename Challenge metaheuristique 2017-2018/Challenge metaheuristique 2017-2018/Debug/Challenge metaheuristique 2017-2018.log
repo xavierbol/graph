@@ -1,3 +1,8 @@
-﻿  Challenge metaheuristique 2017-2018.cpp
-d:\users\nicolas\desktop\challenge metaheuristique 2017-2018\challenge metaheuristique 2017-2018\challenge metaheuristique 2017-2018.cpp(5): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
-  Challenge metaheuristique 2017-2018.vcxproj -> D:\Users\Nicolas\Desktop\Challenge metaheuristique 2017-2018\Debug\Challenge metaheuristique 2017-2018.exe
+﻿  stdafx.cpp
+  Fichiers.cpp
+d:\users\nicolas\documents\github\graph\challenge metaheuristique 2017-2018\challenge metaheuristique 2017-2018\fichiers.cpp(33): warning C4101: 'msg' : variable locale non référencée
+d:\users\nicolas\documents\github\graph\challenge metaheuristique 2017-2018\challenge metaheuristique 2017-2018\fichiers.cpp(93): warning C4101: 'msg' : variable locale non référencée
+  Challenge metaheuristique 2017-2018.cpp
+  Génération de code en cours...
+d:\users\nicolas\documents\github\graph\challenge metaheuristique 2017-2018\challenge metaheuristique 2017-2018\fichiers.cpp(98): warning C4715: 'Fichiers::getElement' : les chemins de contrôle ne retournent pas tous une valeur
+  Challenge metaheuristique 2017-2018.vcxproj -> D:\Users\Nicolas\Documents\GitHub\graph\Challenge metaheuristique 2017-2018\Debug\Challenge metaheuristique 2017-2018.exe
